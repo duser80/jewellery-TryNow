@@ -18,7 +18,9 @@
     "react-modal": "^3.16.1",
     "react-model": "^4.3.1",
     "react-router-dom": "^6.27.0",
-    "typeface-lato": "^1.1.13"
+    "typeface-lato": "^1.1.13",
+    "video.js": "^8.21.0",
+    "videojs-contrib-hls": "^5.15.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",

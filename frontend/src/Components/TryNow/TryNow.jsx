@@ -56,7 +56,7 @@ const TryNow = ({ category }) => {
         </div>
       ) : (
         <p className="text-lg text-gray-600 text-center">
-          Select a category to start streaming.
+         
         </p>
       )}
     </div>
